@@ -30,7 +30,6 @@ io.on('connection', socket => {
     //socket.on('omni', data => {
     //    console.log(data);
     //});
-
     //socket.emit('hello', 'World');
 });
 
